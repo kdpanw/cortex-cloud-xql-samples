@@ -1,6 +1,6 @@
 # POV Queries
 
-High-impact XQL queries useful for Proof of Value (POV) demonstrations. These queries showcase Cortex Cloud's cross-dataset visibility, identity intelligence, and cloud security depth.
+Useful queries during onboarding, testing, and validation of capabilities.
 
 ---
 
