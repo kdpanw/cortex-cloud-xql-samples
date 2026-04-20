@@ -2,7 +2,7 @@
 
 ## Overview
 
-Contains Cortex Cloud issues — actionable security problems identified across your cloud environment, including misconfigurations, vulnerabilities, and policy violations.
+Contains Cortex Cloud issues: actionable security problems identified across your cloud environment, including misconfigurations, vulnerabilities, and policy violations.
 
 **Use when you need to:**
 - Query open or resolved issues across your environment

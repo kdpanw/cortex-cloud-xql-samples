@@ -2,7 +2,7 @@
 
 ## Overview
 
-Contains cases in Cortex Cloud — higher-level groupings that aggregate related issues for unified investigation and response workflows.
+Contains cases in Cortex Cloud: higher-level groupings that aggregate related issues for unified investigation and response workflows.
 
 **Use when you need to:**
 - Query cases by status, severity, or assignee

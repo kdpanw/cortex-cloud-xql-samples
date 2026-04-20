@@ -21,7 +21,7 @@ dataset = asset_inventory
 ---
 
 ### VMs running images older than 30 days
-Demonstrates asset relationship traversal — joining VM instances to their source images and calculating true image age. Good for showing drift and hygiene gaps.
+Demonstrates asset relationship traversal by joining VM instances to their source images and calculating true image age. Good for showing drift and hygiene gaps.
 
 **Dataset:** `asset_inventory`
 
@@ -57,7 +57,7 @@ dataset = asset_inventory
 ## Identity & Permissions (CIEM)
 
 ### AWS roles with KMS Decrypt access
-Shows identity intelligence — surfaces all roles with access to sensitive KMS keys, grouped by account and key. Strong for demonstrating least-privilege gap analysis.
+Shows identity intelligence by surfacing all roles with access to sensitive KMS keys, grouped by account and key. Good for demonstrating least-privilege gap analysis.
 
 **Dataset:** `ciem_permissions_with_last_access`
 
@@ -112,7 +112,7 @@ config timeframe = 30d
 ## Scanning Health
 
 ### ADS errors for a specific account
-Shows operational visibility into scanning health — useful when the prospect has connectivity or permissions issues that Cortex Cloud can surface.
+Shows operational visibility into scanning health, useful for surfacing connectivity or permissions issues across cloud accounts.
 
 **Dataset:** `cloud_health_auditing`
 
